@@ -48,3 +48,5 @@ payroll management system for any organization.
 - **Work Location:** Stores details about office locations, including city, state, and the number of employees assigned to each location.  
 
 - **Leave:** Records the number of leaves an employee has taken or applied for within a month or a year.
+
+More information and ER diagrams are available in the pdf uploaded.

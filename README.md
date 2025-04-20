@@ -2,16 +2,16 @@
 The project focuses on developing an efficient Payroll Management System using the NYC Payroll dataset. The system is designed to streamline the tracking, analysis, and reporting of employee salaries and related financial information, ensuring accurate and organized payroll management.
 
 ### Summary: 
-1. Employee Information 
+1. Employee Information :
 Maintaining accurate employee data is essential for communication, event invitations, and collecting 
 feedback. 
-2. Salary Records 
+2. Salary Records :
 Tracking salary details helps HR and management monitor payroll and enables the company to assess 
 employee costs. 
-3. Work Location 
+3. Work Location :
 Recording work locations supports regional growth planning, targeted hiring, and market expansion 
 strategies. 
-4. Projects 
+4. Projects :
 Maintaining project records, including employee assignments and related salaries, ensures smooth project 
 management and cost analysis.
 
@@ -31,27 +31,20 @@ payroll management system for any organization.
 
 
 ### List of Entities: 
-Employee 
-The Employee table stores all personal details of each employee, covering comprehensive information related to 
-that individual. 
-Salary 
-The Salary table records both current and historical salary details of employees. It helps managers and HR track 
-salary grade changes and promotion dates. 
-Department 
-The Department table maintains data about all departments within the company that an employee can belong to. 
-Account Details 
-The Account Details table stores information about the bank accounts linked by employees for salary credit 
-purposes. 
-Attendance 
-The Attendance table captures data on employee attendance, including the total number of hours worked each 
-week. 
-Project 
-The Project table holds information on all projects the company is currently handling as well as upcoming 
-projects. 
-Education 
-The Education table tracks each employee's academic qualifications, including all degrees earned. 
-Work Location 
-The Work Location table stores details about office locations, including city, state, and the number of employees 
-assigned to each location. 
-Leave 
-The Leave table records the number of leaves an employee has taken or applied for within a month or a year. 
+- **Employee:** Stores all personal details of each employee, covering comprehensive information related to that individual.  
+
+- **Salary:** Records both current and historical salary details of employees; helps managers and HR track salary grade changes and promotion dates.  
+
+- **Department:** Maintains data about all departments within the company that an employee can belong to.  
+
+- **Account Details:** Stores information about the bank accounts linked by employees for salary credit purposes.  
+
+- **Attendance:** Captures data on employee attendance, including the total number of hours worked each week.  
+
+- **Project:** Holds information on all projects the company is currently handling as well as upcoming projects.  
+
+- **Education:** Tracks each employee's academic qualifications, including all degrees earned.  
+
+- **Work Location:** Stores details about office locations, including city, state, and the number of employees assigned to each location.  
+
+- **Leave:** Records the number of leaves an employee has taken or applied for within a month or a year.
